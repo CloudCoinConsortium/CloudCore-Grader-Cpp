@@ -1,2 +1,2 @@
-# CloudCore-Grader-C
-C implementation of the Grader
+# CloudCore-Grader-C++
+C++ implementation of the Grader
